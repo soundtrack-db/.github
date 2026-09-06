@@ -21,6 +21,7 @@
 ### 🚀 Public Repositories
 
 - **[soundtrack-db/api](https://github.com/soundtrack-db/api)**: The open developer hub featuring the OpenAPI 3.0 specification, cURL / JavaScript / Python client recipes, and community catalog issue templates.
+- **[soundtrack-db/wp-plugin](https://github.com/soundtrack-db/wp-plugin)**: The official WordPress plugin to automatically display verified Spotify soundtracks on any movie/TV post with zero configuration.
 
 ### ⚡ Highlights
 
